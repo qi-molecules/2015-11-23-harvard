@@ -1,1 +1,3 @@
-a new file
+This folder contains the material for git class. 
+
+
